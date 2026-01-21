@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dix&Fux Register</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+        <body>
+            <h1 style="color: #d76b00; font-family: sans-serif;">Dix&Fux</h1>
+            <form action="/action_page.php" method="post">
+  <label style="color: #d76b00; font-family: sans-serif;" for="fname">Username:</label>
+  <input type="text" class="fname" name="fname" required><br><br>
+  <label style="color: #d76b00; font-family: sans-serif;" for="edname">Email Adress:</label>
+  <input type="email" class="edname" name="edname" required placeholder="example@gmail.com"><br><br>
+  <label style="color: #d76b00; font-family: sans-serif;" for="lname">Password:</label>
+  <input type="password" class="lname" name="lname" required maxlength="16"><br><br>
+  <label style="color: #d76b00; font-family: sans-serif;" for="clname">Confirm Password:</label>
+  <input type="password" class="clname" name="clname" required maxlength="16"><br><br>
+  <label style="color: #d76b00; font-family: sans-serif;" for="dt">Birth Date:</label>
+  <input type="date" class="dt" name="dt" required><br><br>
+  <label class="gender">Boy</label>
+  <input type="radio" name="gender" value="Boy" required>
+  <label class="gender">Girl</label>
+  <input type="radio" name="gender" value="Girl" required>
+    <br><br>
+  <input class="SignupBtn" type="submit" value="Register">
+            </form>
+            <br>
+            <button class="SigninBtn" onclick="location.href='login.html'">I allready have an account</button>
+            <button class="BackBtn" onclick="location.href='Home.html'">Back</button>
+        </body>
+</head>
+</html>

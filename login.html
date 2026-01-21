@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1 id="Title" style="color: #d76b00; font-family: sans-serif;"></h1>
+        <form action="sample.py" method="post">
+            <label style="color: #d76b00; font-family: sans-serif;" for="fname">Username:</label>
+            <input type="text" class="fname" name="fname" required><br><br>
+            <label style="color: #d76b00; font-family: sans-serif;" for="lname">Password:</label>
+            <input type="password" class="lname" name="lname" required maxlength="16"><br><br>
+            <input class="SigninBtn" type="submit" value="Login">
+        </form>
+        <br>
+        <button class="SignupBtn" id="SignupBtn" onclick="location.href='Register.html'">I don't have an account</button>
+        <button class="BackBtn" id="BackBtn" onclick="location.href='Home.html'">Back</button>
+    </body>
+</html>

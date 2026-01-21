@@ -1,0 +1,136 @@
+        body {
+            background-color: #000000;
+            color: #ffffff;
+        }
+        .SearchBar {
+            background-color: #d76b00;
+            position :absolute;
+            left: 188px;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .loginBtn {
+            background-color: #d76b00;
+            position :absolute;
+            top: 10px;
+            right: 10px;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .RegisterBtn{
+            background-color: #d76b00;
+            position :absolute;
+            top: 60px;
+            right: 10px;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .Theme {
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .SearchBtn{
+            background-color: #d76b00;
+            position :absolute;
+            left: 380px;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+            .BackBtn{
+                background-color: #d76b00;
+                position :absolute;
+                top: 10px;
+                right: 10px;
+                color: rgb(0, 0, 0);
+                border-radius: 8px;
+                padding: 10px 20px;
+                cursor: pointer;
+                outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+            }
+            .fname {
+                color: #d76b00;
+                background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+                }
+            .lname {
+                color: #d76b00;
+                background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+                }
+        .SigninBtn {
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .edname {
+            color: #d76b00;
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .clname {
+            color: #d76b00;
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .dt {
+            color: #d76b00;
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
+        .gender {
+            color: #d76b00;
+            font-family: sans-serif;
+        }
+        .SignupBtn {
+            background-color: #d76b00;
+            color: rgb(0, 0, 0);
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            outline: solid #ffffff 2px;
+            box-shadow: 3px 3px 6px #d76b00;
+        }
